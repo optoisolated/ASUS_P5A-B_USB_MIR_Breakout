@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.1*%
+%TF.CreationDate,2024-04-03T08:14:29+10:00*%
+%TF.ProjectId,Asus ATX USB PS2 Breakout,41737573-2041-4545-9820-555342205053,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.1) date 2024-04-03 08:14:29*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X113000000Y-68326000D02*
+X203000000Y-68326000D01*
+X203000000Y-112326000D01*
+X113000000Y-112326000D01*
+X113000000Y-68326000D01*
+M02*
